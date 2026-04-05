@@ -7,3 +7,8 @@ Welcome to the official repository for course material at FAST National Universi
 1. Programming Fundamentals (PF)
 2. Object Oriented Programming (OOP)
 3. Data Structures (DS)
+
+## First Semester 
+1. Agentic AI 
+2. Machine Learning
+3. Deep Learning 
